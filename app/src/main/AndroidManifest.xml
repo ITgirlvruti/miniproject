@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Miniproject">
         <activity
-            android:name=".splashscreen"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
